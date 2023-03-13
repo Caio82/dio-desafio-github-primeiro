@@ -1,0 +1,83 @@
+DIR - Para listar todos os arquivos dentro do prompt de comando. 
+
+LS - Para listar todos os arquivos dentro do Linux
+
+cd / - Serve para navegar dentro das pastas no diretorio c: no caso. 
+Sendo assim para se entrar em alguma pasta se usa o comando cd e o nome da
+pasta em questão ex: cd Windows. Mesmo comando para Linux
+
+cd.. - Serve para retroceder, isto é, voltar para pasta anterior a que
+chamou acima. Mesmo comando para Linux
+
+cls - Serve para limpar o prompt de comando para poder trabalhar sem tela 
+poluida. 
+
+clear - Serve para limpar o prompt de comando no Linux ou Crtl+l. 
+
+TAB - Serve para completar o que vc precisar escrever Ex: cd W TAB ja 
+aparecerá cd Windows
+
+mkdir - Serve para criação de pasta dentro do diretorio que vc está. 
+Mesmo comando para Linux
+
+echo - Serve somente para mostrar o texto que vc digita depois dele. 
+
+echo texto > texto.txt - Serve para criação de uma pasta com o nome do 
+texto dento da pasta em questão. Mesmo comando para Linux
+
+del - Serve para deletar conteudo dentro de alguma pasta que vc queira. 
+Ex: del worspace irá deletar somente a pasta que está dentro desse diretorio
+
+rmdir nome da pasta /S /Q - Serve para deletar mesmo a pasta em questão 
+que vc queira com todos os arquivos dentro dela em questão.
+
+rm -rf nome da pasta - Serve para deletar todas as pastas e subpastas
+que vc quiser no Linux 
+
+
+git init - Serve para iniciar o Git dentro de uma pasta 
+
+ls -a - Serve para mostrar arquivos ocultos.  
+
+git config --global user.email "email utilizado" - Serve para configurar
+o git no prompt de comando e na pasta. 
+
+git config --global user.name *nome utlizado* - Serve igual ao de cima
+so que lá foi add email e nesse será add o nome. 
+
+git add * - Serve para adicional informações 
+
+git commit -m "commit inicial" - Serve para add o que está dentro dos ""
+
+git status - Serve para ver o status. 
+
+mv nome da pasta - Serve para mover a pasta selecionada para outro lugar 
+
+git config --list - Serve para mostrar todas as configurações que estão 
+configuradas no Git. 
+
+git config --global --unset user.email - Serve para alterar o email no caso
+se precisar. 
+
+git remote add origin *colar a https* - Serve para add a origem no git
+do meu computador para o github na internet. 
+
+git remote -v - Serve para listar os https que vc add com o comando anterior
+
+git push origin master - Serve para literalmente empurrar o codigo para o 
+GitHub. 
+
+git pull origin master - Serve para puxar o codigo do GitHub para o seu 
+computador. 
+
+git clone *colar https que se copiou do GitHub* - Serve para clonar codigo 
+que foi pego na internet GitHub
+
+
+
+
+
+
+
+
+
